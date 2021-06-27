@@ -1,20 +1,18 @@
 ---
-action_label: Read More &rarr;
-action_link: /about
-action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
-image_left: true
+title: "Yuehong Cassandra Tai"
+subtitle: "A Ph.D Candidate at the University of Iowa"
+description: "I am a public opinion and public policy researcher. My research leverages comparative public opinion data to study public policy outcomes across countries and over time, and I support comparative studies by building comparative public opinion database."
+  
 images:
-- img/revoir.jpg
-show_action_link: true
-show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+  - img/snow_wide.jpg
+
+image_left: false
 text_align_left: false
-title: Hugo Apéro
+show_action_link: true # specify social accounts in site config
+show_social_links: true
+action_link: /about
+action_label: "Learn more about me &rarr;"
+action_type: text # text, button
 type: home
 ---
 
