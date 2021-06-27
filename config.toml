@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://stoic-yalow-4c50d8.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
 title = "Yuehong Cassandra Tai"
