@@ -1,17 +1,16 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: "Lately..." # leave blank to exclude
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  Why don't all people accept vaccinations even during times of crisis? How can we understand the unchecked rise of economic inequality in so many countries, both democratic and authoritarian? My disseration explores the roles of societal attitudes, and specifically trust, play in policy outcomes. To overcome challenges of fragemented and spare data in comparative studies, I build a novel trust database and measure changes of public trust over time in countries around the world over the past half centure through Bayesian Dynamic Comparative Public Opinion method. I demonstrate that different types of trust have different roles in shaping public acceptance to vaccine and support for redistribution policy.
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+   <i class="fas fa-lightbulb pr2"></i>Political science researcher,<br>interested in and curious about understanding society from big data and Non-traditional data.
 ---
 
 ** index doesn't contain a body, just front matter above.
