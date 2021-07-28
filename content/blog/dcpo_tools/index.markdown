@@ -3,11 +3,11 @@ title: DCPO Tools
 author: Yuehong Cassandra Tai
 date: "2021-07-19"
 draft: false
-excerpt: I a contributor to DCPOtools which is R package preparing panel data for Dynamic Comparative Publicion Opinion (DCPO) analyses.
+excerpt: I a contributor to DCPOtools which is R package preparing panel data for Dynamic Comparative Public Opinion (DCPO) analyses.
 images: null
 layout: single
 series: null
-subtitle: "I a contributor to DCPOtools which is R package preparing panel data for Dynamic Comparative Publicion Opinion (DCPO) analyses."
+subtitle: "I a contributor to DCPOtools which is R package preparing panel data for Dynamic Comparative Public Opinion (DCPO) analyses."
 tags: 
   - DCPO
   - R
@@ -25,7 +25,7 @@ links:
 
 ## About DCPOtools
 
-DCPOtools includes functions to help preparing panel data for Dynamic Comparative Publicion Opinion ([DCPO](https://github.com/fsolt/DCPO)) analyses.
+DCPOtools includes functions to help preparing panel data for Dynamic Comparative Public Opinion ([DCPO](https://github.com/fsolt/DCPO)) analyses.
 
 For a detailed description, see [here](https://github.com/fsolt/DCPOtools).
 
