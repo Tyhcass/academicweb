@@ -1,42 +1,34 @@
 ---
-author: Alison Hill
-categories: null
-date: "2020-12-30"
+title: Dynamic Comparative Publicion Opinion Lab Projects
+author: Yuehong Cassandra Tai
+date: "2021-07-19"
 draft: false
-excerpt: testing the excerpt field
+excerpt: I a member in the DCPO (Dynamic Comparative Publicion Opinion) Lab on projects that develop novel methods to estimate latent public opinion from cross-national survey data, overcome issues of missing and incomparable data, and study the dynamics of public opinion across countries.
 images: null
 layout: single
 series: null
-subtitle: ""
-tags: null
-title: An Rmarkdown post
+subtitle: "I a member in the DCPO (Dynamic Comparative Publicion Opinion) Lab on projects that develop novel methods to estimate latent public opinion from cross-national survey data, overcome issues of missing and incomparable data, and study the dynamics of public opinion across countries."
+tags: 
+  - DCPO
+  - R
+  - Latent Variable Measurement
+categories: 
+  - Latent Variable Measurement
+  - DCPO
+links:
+- icon: box
+  icon_pack: fas
+  name: package
+  url: https://github.com/fsolt/DCPO
 ---
 
 
-## Air quality
+## About DCPO
 
+The study of comparative public opinion has been hampered by "incomparable" data. DCPO is an R package making "comparability" possible by using sophisticated Bayesian IRT method to estimate latent public opinion from cross-national survey data to maximize the information gleaned from available sources and overcome issues of missing data.
 
-```r
-with(airquality, boxplot(Temp ~ Month))
-```
-
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-1-1.png" width="672" />
+For a detailed description, see the working paper [here](https://github.com/fsolt/DCPO).
 
 
 
-```r
-with(airquality, plot(Ozone ~ Temp))
-```
-
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
-
-
-```r
-mlev <- levels(with(airquality, as.factor(Month)))
-with(airquality, plot(Ozone ~ Temp, 
-                      pch = as.numeric(mlev), 
-                      col = mlev))
-```
-
-<img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-3-1.png" width="672" />
 
