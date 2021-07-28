@@ -1,13 +1,13 @@
 ---
-title: Dynamic Comparative Publicion Opinion Lab Projects
+title: Dynamic Comparative Public Opinion Lab Projects
 author: Yuehong Cassandra Tai
 date: "2021-07-19"
 draft: false
-excerpt: I a member in the DCPO (Dynamic Comparative Publicion Opinion) Lab on projects that develop novel methods to estimate latent public opinion from cross-national survey data, overcome issues of missing and incomparable data, and study the dynamics of public opinion across countries.
+excerpt: I a member in the DCPO (Dynamic Comparative Public Opinion) Lab on projects that develop novel methods to estimate latent public opinion from cross-national survey data, overcome issues of missing and incomparable data, and study the dynamics of public opinion across countries.
 images: null
 layout: single
 series: null
-subtitle: "I a member in the DCPO (Dynamic Comparative Publicion Opinion) Lab on projects that develop novel methods to estimate latent public opinion from cross-national survey data, overcome issues of missing and incomparable data, and study the dynamics of public opinion across countries."
+subtitle: "I a member in the DCPO (Dynamic Comparative Public Opinion) Lab on projects that develop novel methods to estimate latent public opinion from cross-national survey data, overcome issues of missing and incomparable data, and study the dynamics of public opinion across countries."
 tags: 
   - DCPO
   - R
