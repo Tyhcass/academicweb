@@ -6,7 +6,7 @@ use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Why don't all people accept vaccinations even during times of crisis? How can we understand the unchecked rise of economic inequality in so many countries, both democratic and authoritarian? My disseration explores the roles of societal attitudes, and specifically trust, play in policy outcomes. To overcome challenges of fragemented and spare data in comparative studies, I build a novel trust database and measure changes of public trust over time in countries around the world over the past half centure through Bayesian Dynamic Comparative Public Opinion method. I demonstrate that different types of trust have different roles in shaping public acceptance to vaccine and support for redistribution policy.
+  In my dissertation, I seek to answer the question, "What influences public compliance with public policy?" More specifically, I ask, "Why do people not comply with a shared-interest policy which benefits both government and public generally, like public health policy? Why do people comply with a conflicting-interest policy in which there is a fundamental tension between the state and the society, like taxation?" Public opinion scholars have examined how political and social trust affect policy support and public compliance with policies, including redistribution policies, taxation, disease controls, and military recruitment etc., in single countries. I propose taking comparative trust and policy attributes to understand that different types of trust have reinforcing or counterbalancing effects on public compliance, and these effects vary across policy attributes.
   
 show_outro: true
 outro: |
