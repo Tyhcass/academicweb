@@ -146,7 +146,7 @@ enableEmoji = true
     url = "/blog/"
     weight = 3
   [[menu.header]]
-    name = "Teahcing"
+    name = "Teaching"
     title = "Teaching and Invited Talks"
     url = "/talk/"
     weight = 4
