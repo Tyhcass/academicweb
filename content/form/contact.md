@@ -7,12 +7,12 @@ date: "2019-02-25T13:38:41-06:00"
 url: contact
 draft: false
 submit_button_label: Send Message
-formspree_form_id: "yuehongtai@gmail.com" # id-from-formspree
+formspree_form_id: "xknkqowy" # id-from-formspree
 layout: split-right  # split-right or split-left
 show_social_links: true # specify social accounts in site config
 show_poweredby_formspree: true
 # From the Integration tab in Formspree where it says Your form's endpoint is:
-# https://formspree.io/f/abcdefgh The id will be "abcdefgh"" 
+# https://formspree.io/f/xknkqowy The id will be "xknkqowy"" 
 
 
 
