@@ -1,7 +1,7 @@
 ---
 title: "Democracy, Public Support, and Measurement Uncertainty"
 author: "Yuehong Cassandra Tai, Yue Hu, Frederick Solt"
-date: '2021-07-25'
+date: '2021-09-25'
 slug: measurement-uncertainty
 categories:
   - Research

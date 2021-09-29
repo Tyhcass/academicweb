@@ -1,7 +1,7 @@
 ---
 title: "Judge’s Gender and Oral Language Skills: An Empirical Analysis of Chinese Courtroom Audio"
 author: "Dong Erico Yu, Yuehong Cassandra Tai"
-date: '2021-07-16'
+date: '2021-09-16'
 slug: language-gender
 categories:
   - Research

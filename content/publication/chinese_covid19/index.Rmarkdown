@@ -1,7 +1,7 @@
 ---
 title: "Policy Burden, Issue Salience, and COVID-19 Policy Adoption in China"
 author: "Jielu Yao, Yuehong Tai, Elise Pizzi"
-date: '2021-07-16'
+date: '2021-09-22'
 slug: response-policy-covid19
 categories:
   - Research
