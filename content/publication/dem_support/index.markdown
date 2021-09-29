@@ -14,7 +14,7 @@ publishDate: ''
 publication_types:
   - ''
 publication: ' '
-summary: 'Study reexamining analyses in two prominent recent studies on classic hypotheses on democracy and public support and underscoring the necessity of accounting for measurement uncertainty. (Revise and Resubmit) '
+summary: 'Study reexamining analyses in two prominent recent studies on classic hypotheses on democracy and public support and underscoring the necessity of accounting for measurement uncertainty. (Revised and Resubmitd) '
 subtitle: 'Study reexamining analyses in two prominent recent studies on classic hypotheses on democracy and public support and underscoring the necessity of accounting for measurement uncertainty.'
 featured: yes
 links:
