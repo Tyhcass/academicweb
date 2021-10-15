@@ -14,7 +14,7 @@ publishDate: ''
 publication_types:
   - ''
 publication: ' '
-summary: 'Study finding that policy orientation and horizontal diffusion, rather than fiscal capacity, shape subnational governments’ responsiveness in public health governance by using event history analysis and spatial models.'
+summary: 'Study finding that policy orientation and horizontal diffusion, rather than fiscal capacity, shape subnational governments’ responsiveness in public health governance by using event history analysis and spatial models.(Under Review)'
 subtitle: 'Study finding that policy orientation and horizontal diffusion, rather than fiscal capacity, shape subnational governments’ responsiveness in public health governance by using event history analysis and spatial models.'
 featured: yes
 links:

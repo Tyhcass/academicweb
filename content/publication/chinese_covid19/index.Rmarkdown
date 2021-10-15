@@ -14,8 +14,8 @@ publishDate: ''
 publication_types:
   - ''
 publication: ' '
-summary: 'Study exploring why some of these policies diffused more quickly across provinces than others during COVID19 in China and finding policy features matter.'
-subtitle: 'Study exploring why some of these policies diffused more quickly across provinces than others during COVID19 in China and finding policy features matter.'
+summary: 'Study exploring why some of these policies diffused more quickly across provinces than others during COVID19 in China and finding policy features matter. (Working Paper)'
+subtitle: 'Study exploring why some of these policies diffused more quickly across provinces than others during COVID19 in China and finding policy features matter.(Working Paper)'
 featured: yes
 links:
 - icon: file-pdf
@@ -32,7 +32,9 @@ Provincial governments in China responded quickly and effectively to the COVID-1
 
 ## Conference
 
+APSA Chinese Politics Mini-Conference 2021
 MPSA 2021
+
 
 ## Covid19 Control Policy Adoption
 
