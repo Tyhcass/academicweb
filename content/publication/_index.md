@@ -1,7 +1,7 @@
 ---
-title: Publications
+title: Research
 description: |
-  This is home for my research publications and ongoing projects, each linked with accompanying preprints, replication files, and/or database.
+  This is home for my research and ongoing projects, each linked with accompanying preprints, replication files, and/or database.
 author: "Yuehong Cassandra Tai"
 show_post_thumbnail: false
 thumbnail_left: true # for list-sidebar only
@@ -14,7 +14,7 @@ layout: list # list, list-sidebar, list-grid
 sidebar: 
   title: Blog
   description: |
-    A home for my research publications.
+    A home for my research.
     
   author: "Yuehong Cassandra Tai"
   # text_link_label: Subscribe via RSS

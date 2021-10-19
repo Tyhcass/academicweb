@@ -136,20 +136,21 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Publications"
-    title = "Research Publications"
+    name = "Research"
+    title = "Research"
     url = "/publication/"
     weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/blog/"
-    weight = 3
   [[menu.header]]
     name = "Teaching"
     title = "Teaching and Invited Talks"
     url = "/talk/"
+    weight = 3
+  [[menu.header]]
+    name = "Projects"
+    title = "Project Portfolio"
+    url = "/blog/"
     weight = 4
+
 #  [[menu.header]]
 #    name = "A collection"
 #    title = "A collection"

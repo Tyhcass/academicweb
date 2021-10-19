@@ -10,7 +10,7 @@ link_list:
 - name: Comparative Public Opinion 
   url: https://ctai.shinyapps.io/dmsweb/
 - name: Latent Variable Measurement
-  url: https://fsolt.org/swiid/ 
+  url: 
 - name: Public Health & Redistribution Policy
   url: 
 
