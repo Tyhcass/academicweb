@@ -18,7 +18,7 @@ You can check out my [CV](https://github.com/Tyhcass/cvtemplate/blob/master/Cass
 <i class="fas fa-graduation-cap pr2"></i>Ph.D. in Political Science  &#8729;
   University of Iowa  &#8729;  2022 (expected)
  
-<i class="fas fa-certificate pr2"></i>Informatics Certificate  &#8729;  University of Iowa  &#8729;  2021 (expected)
+<i class="fas fa-certificate pr2"></i>Informatics Certificate  &#8729;  University of Iowa  &#8729;  2021 
 
 <i class="fas fa-graduation-cap pr2"></i>M.A. in Political Science  &#8729;  University of Iowa  &#8729;  2021
 

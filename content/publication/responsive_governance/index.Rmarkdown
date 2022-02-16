@@ -1,7 +1,7 @@
 ---
 title: "Policy Orientation and Diffusion in Responsive Governance: Responses to the Chinese 2018 Vaccine Scandal"
 author: "Yuehong Cassandra Tai"
-date: '2021-07-16'
+date: '2022-01-10'
 slug: policy-vaccine-response
 categories:
   - Research
@@ -14,13 +14,13 @@ publishDate: ''
 publication_types:
   - ''
 publication: ' '
-summary: 'Study finding that policy orientation and horizontal diffusion, rather than fiscal capacity, shape subnational governments’ responsiveness in public health governance by using event history analysis and spatial models.(Under Review)'
+summary: 'Study finding that policy orientation and horizontal diffusion, rather than fiscal capacity, shape subnational governments’ responsiveness in public health governance by using event history analysis and spatial models.(Revised and Resubmitted)'
 subtitle: 'Study finding that policy orientation and horizontal diffusion, rather than fiscal capacity, shape subnational governments’ responsiveness in public health governance by using event history analysis and spatial models.'
 featured: yes
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: Under Review
+  name: Revised and Resubmitted
   #url: https://arxiv.org/abs/2105.04981
   
 

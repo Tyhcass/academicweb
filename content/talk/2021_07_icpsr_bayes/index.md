@@ -1,7 +1,7 @@
 ---
 title: "Bayesian Modeling for the Social Sciences II"
 subtitle: "Advanced Topic"
-excerpt: "I am serving as TA in Advanced Bayesian Modeling Course in 2021 ICPSR Summer Program."
+excerpt: "I served as TA in Advanced Bayesian Modeling Course in 2021 ICPSR Summer Program."
 date: 2021-07-19T13:00:00
 date_end: "2021-08-13T15:00:00"
 featured: true
