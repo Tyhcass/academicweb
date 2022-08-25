@@ -1,7 +1,7 @@
 ---
 title: "Policy Burden, Issue Salience, and COVID-19 Policy Adoption in China"
 author: "Jielu Yao, Yuehong Tai, Elise Pizzi"
-date: '2021-09-22'
+date: '2022-07-08'
 slug: response-policy-covid19
 categories:
   - Research
@@ -14,13 +14,17 @@ publishDate: ''
 publication_types:
   - ''
 publication: ' '
-summary: 'Study exploring why some of these policies diffused more quickly across provinces than others during COVID19 in China and finding policy features matter. (Working Paper)'
-subtitle: 'Study exploring why some of these policies diffused more quickly across provinces than others during COVID19 in China and finding policy features matter.(Working Paper)'
+summary: 'Study exploring why some policies diffuse more broadly than others during the outbreak of COVID-19 in China and finding the location of policy burden and the national salience of COVID-19 explain variation in policy adoption. (Under Review)'
+subtitle: 'Study exploring why some policies diffuse more broadly than others during the outbreak of COVID-19 in China and finding the location of policy burden and the national salience of COVID-19 explain variation in policy adoption.(Under Review)'
+
+
+
+
 featured: yes
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: Ongoing Work
+  name: Under Review
   #url: https://arxiv.org/abs/2105.04981
   
 
@@ -28,7 +32,8 @@ links:
 
 ## Abstract 
 
-Provincial governments in China responded quickly and effectively to the COVID-19 outbreak in China. Governments adopted a range of policies from publishing new health statistics to restricting movement. We explore why some of these policies were adopted more quickly across provinces than others. We focus on one key characteristic of policy to explain the speed of diffusion: the location of the policy burden. Policies that demand change in behavior by government officials are efficient and can be carefully controlled. In contrast, policies that demand changes in behavior by the public are distant from the nexus of government control and require monitoring and enforcement. Policies that burden the public may also be unpopular. We compile a new dataset on the speed of diffusion of 25 COVID-19 response and containment policies and assess whether each policy places a burden on the government, the public, or both. We find that policy burden has an conditional impact on the policy adoption - as the issue became more salient nationwide, the provincial governments are more likely to adopt the policies that burden themselves and the public and less likely to adopt the policies that burden the public alone. At the same time, factors that more generally influence adoption - central government advocacy, neighboring province adoption, and local leadership - still play a key role in explaining how COVID-19 diffuse among provinces. Our results demonstrate the importance of identifying the interaction between policy burdens and public opinion in order to explain policy adoption and diffusion. 
+With the outbreak of COVID-19 in China, regional policy responses ranged from publishing new health statistics to restricting movement. Why do some policies diffuse more broadly than others? We argue that the location of policy burden and the national salience of COVID-19 explain policy adoption across provinces. 
+We compile a new dataset on the speed of diffusion of 25 COVID-19 response and containment policies and assess whether each policy places a burden on the government, the public, or both. We employ multilevel pooled event history models that yield the best combination of unbiased estimates and standard errors to understand the diffusion of multiple COVID-19 policies. Our results demonstrate that as issue salience grows, the provincial governments are more likely to adopt the policies that burden both government officials and the public. The findings suggest policy responses in times of crisis are sensitive to the wider public attention. 
 
 ## Conference
 
@@ -38,4 +43,4 @@ MPSA 2021
 
 ## Covid19 Control Policy Adoption
 
-![policy adoption](panel.png)
+![policy adoption](policyburden_label.png)
