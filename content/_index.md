@@ -1,7 +1,7 @@
 ---
 title: "Yuehong Cassandra Tai"
-subtitle: "A Ph.D Candidate at the University of Iowa"
-description: "I am a public opinion and public policy researcher. My research leverages comparative public opinion data to study public policy outcomes across countries and over time, and I support comparative studies by building comparative public opinion database."
+subtitle: "Post-doctoral Scholar at the Center for Social Data Analytics, Penn State University"
+description: "I am a public opinion and public policy researcher. My research leverages comparative public opinion data to study public policy across countries and over time, and I support comparative studies by building comparative public opinion database."
   
 images:
   - img/snow_wide.jpg
