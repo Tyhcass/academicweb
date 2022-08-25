@@ -1,7 +1,7 @@
 ---
 title: "Hawkeye Poll"
 subtitle: 
-excerpt: "I am teaching Hawkeye Poll as an independent instructor at the University of Iowa."
+excerpt: "I taught Hawkeye Poll as an independent instructor at the University of Iowa."
 date: 2022-01-19T12:30:00
 #date_end: "2022-05-05Th13:45:00"
 featured: true
