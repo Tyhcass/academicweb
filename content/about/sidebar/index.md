@@ -8,11 +8,11 @@ audio_link_label: "" # leave blank to exclude
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Comparative Public Opinion 
-  url: https://ctai.shinyapps.io/dmsweb/
-- name: Latent Variable Measurement
-  url: 
-- name: Public Health & Redistribution Policy
-  url: 
+#  url: https://ctai.shinyapps.io/dmsweb/
+- name: Misinformation
+#  url: 
+- name: Public Policy
+#  url: 
 
 ---
 

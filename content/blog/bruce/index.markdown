@@ -1,7 +1,7 @@
 ---
 title: Governance and Administration in Networks (GAiN) Lab
 author: Yuehong Cassandra Tai
-date: "2023-09-07"
+date: "2022-08-15"
 draft: false
 excerpt: I am a member in the GAiN (Governance and Administration in Networks) Lab on projects that focus on rigorously and precisely identifying the complex ways in which political actors and institutions exhibit interdependence.
 images: null
