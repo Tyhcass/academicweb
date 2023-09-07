@@ -5,8 +5,8 @@ description: |
 author: "Yuehong Cassandra Tai"
 show_post_thumbnail: true
 thumbnail_left: false # for list-sidebar only
-show_author_byline: false
-show_post_date: true
+show_author_byline: true
+show_post_date: false
 # for listing page layout
 layout: list-sidebar # list, list-sidebar, list-grid
 
@@ -24,9 +24,9 @@ sidebar:
 cascade:
   author: "Yuehong Cassandra Tai"
   show_author_byline: true
-  show_post_date: true
+  show_post_date: false
   show_comments: true # see site config to choose Disqus or Utterances
-  # for single-sidebar layout
+# for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
     text_link_url: /blog/

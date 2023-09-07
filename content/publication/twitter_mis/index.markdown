@@ -14,8 +14,8 @@ publishDate: ''
 publication_types:
   - ''
 publication: ' '
-summary: 'Study analyze the content of 3,345,232 tweets posted by over three-thousand accounts of U.S. state lawmakers throughout all of 2020 and 2021 and finding that Republicans share far more---an order of magnitude more---misinformation than do Democrats. (Accepted at *Journal of Information Technology &
-Politics*) '
+summary: 'Study analyze the content of 3,345,232 tweets posted by over three-thousand accounts of U.S. state lawmakers throughout all of 2020 and 2021 and finding that Republicans share far more---an order of magnitude more---misinformation than do Democrats. *Journal of Information Technology &
+Politics*. Accepted.'
 subtitle: 'Study analyze the content of 3,345,232 tweets posted by over three-thousand accounts of U.S. state lawmakers throughout all of 2020 and 2021 and finding that Republicans share far more---an order of magnitude more---misinformation than do Democrats.'
 featured: yes
 links:
