@@ -1,13 +1,13 @@
 ---
 title: "Yuehong Cassandra Tai"
 subtitle: "Post-doctoral Scholar at the Center for Social Data Analytics, Penn State University"
-description: "I am a public opinion and public policy researcher. My research leverages comparative public opinion data to study public policy across countries and over time, and I support comparative studies by building comparative public opinion database."
+description: "I am a comparativist in political science. My research examines public opinion and elite behavior in comparative contexts and within the United States, using thousands of national survey datasets, millions of social media posts, Bayesian and text analysis, and machine learning methods."
   
 images:
-  - img/snow_wide.jpg
+  - img/me.JPG
 
 image_left: false
-text_align_left: false
+text_align_left: True
 show_action_link: true # specify social accounts in site config
 show_social_links: true
 action_link: /about
