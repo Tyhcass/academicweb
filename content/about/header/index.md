@@ -9,11 +9,11 @@ headline: |
 <!-- this is a subheadline -->
 Thanks for stopping by!
 
-I am a post-doctoral scholar in the Center for Social Data Analytics (C-SoDA) at Penn State University. I specialize in comparative politics and political methodology. My research attempts to understand the interaction between public opinion and policymaking, policy output, policy outcomes and policy feedback as a process in governance from a comparative perspective. Specifically, I focus on public health and economic policies. 
+I am a post-doctoral scholar in the Center for Social Data Analytics (C-SoDA) at Penn State University. I specialize in comparative politics and political methodology. My research centers on public opinion, elite behavior (misinformation), and Chinese politics. To better answer classic questions and understand new phenomena, for example, public support for democracy and online misinformation by elites, I use quantitative, automated, and computational techniques to analyze large-scale survey data and text data. 
 
-My method interest includes latent variable measurements in public opinion, Bayesian Analysis, and machine-learning in non-traditional data. 
+My method interest includes latent variable measurements, Bayesian Analysis, NLP/Text-as-data, and machine-learning in non-traditional data. 
 
-You can check out my [CV](https://github.com/Tyhcass/cvtemplate/blob/master/CassTai_CV.pdf) here and learn more about my research interests in [research](/publication).
+You can check out my [Curriculum Vitae](https://github.com/Tyhcass/cvtemplate/blob/master/CassTai_CV.pdf) here and learn more about my research interests in [research](/publication).
 
 <i class="fas fa-graduation-cap pr2"></i>Ph.D. in Political Science  &#8729;
   University of Iowa  &#8729;  2022

@@ -4,7 +4,7 @@ subtitle: "Post-doctoral Scholar at the Center for Social Data Analytics, Penn S
 description: "I am a comparativist in political science. My research examines public opinion and elite behavior in comparative contexts and within the United States, using thousands of national survey datasets, millions of social media posts, Bayesian and text analysis, and machine learning methods."
   
 images:
-  - img/me.JPG
+  - img/me.jpg
 
 image_left: false
 text_align_left: True

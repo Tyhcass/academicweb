@@ -1,7 +1,7 @@
 ---
-title: "Determinants of Chinese Provincial Governments’ Responses to the 2018 Vaccine Scandal: Policy Orientation and Neighbor Effect"
+title: "Policy Orientation and Diffusion in Responsive Governance: Responses to the Chinese 2018 Vaccine Scandal"
 author: "Yuehong Cassandra Tai"
-date: '2022-07-02'
+date: '2022-07-19'
 slug: policy-vaccine-response
 categories:
   - Research
@@ -14,39 +14,23 @@ publishDate: ''
 publication_types:
   - ''
 publication: ' '
-summary: 'Study finding that policy orientation and neighbor effect, rather than fiscal capacity, shape how subnational governments react to a public health crisis by using event history analysis and spatial models.(*Asian Survey*)'
-subtitle: 'Study finding that policy orientation and neighbor effect, rather than fiscal capacity, shape how subnational governments react to a public health crisis by using event history analysis and spatial models.'
+summary: 'Study finding that policy orientation and horizontal diffusion, rather than fiscal capacity, shape subnational governments’ responsiveness in public health governance by using event history analysis and spatial models.(*Asian Survey*)'
+subtitle: 'Study finding that policy orientation and horizontal diffusion, rather than fiscal capacity, shape subnational governments’ responsiveness in public health governance by using event history analysis and spatial models.'
 featured: yes
 links:
 - icon: file-pdf
   icon_pack: fas
-  name: Revised and Resubmitted
-  #url: https://arxiv.org/abs/2105.04981
+  name: Article Link
+  url: https://online.ucpress.edu/as/article-abstract/62/4/628/187935/Determinants-of-Chinese-Provincial-Governments
   
 
 ---
 
 ## Abstract 
 
-Scholars who study governance in authoritarian countries have long highlighted
-the importance of fiscal capacity and pressure from the central government
-in determining the responsiveness and policy changes of subnational
-governments. However, policy orientation is also important in shaping how
-subnational governments react to a crisis. Using provincial governments’
-responses during the 2018 Chinese vaccine scandal, I find strong evidence
-that an emphasis on public health, as well as early responses by neighboring
-provinces, increased the likelihood of a quick response. Moreover, issue
-salience minimized the direct effect of pressure from the national government.
-An additional paired case study of the provinces of Hubei and Hunan shows
-that the importance accorded by the provincial government to public health
-policy was implemented at the sub-provincial level through China’s one-leveldown
-cadre management system; it also may explain Hubei’s delay in
-responding to COVID-19 at an early stage.
+Over the past decades, authoritarian countries have used responsiveness to improve their governance in an effort to sustain themselves and lengthen their duration. One important determinant for subnational governments to govern according to mandates from the central government is their fiscal capacity. However, I argue that policy orientation and horizontal diffusion, rather than fiscal capacity, shape subnational governments’ responsiveness in governance. Using provincial governments’ responses during the Chinese 2018 vaccine scandal, I find strong evidence to support that provincial governments’ policy orientation in public health and governance diffusion from neighboring provinces precipitated their responses, regardless of their overall economic capacity and vertical pressure from the center. I also demonstrate that one-level-down system in cadre management is the mechanism that enables policy orientation to result in quick responses from subnational governments. Statistical findings are robust to various alternative specifications, including models that account for spatial interdependence.
 
 
 ## The diffusion of Responses
 
 ![Provincial Responses](responsemap.PNG) 
-
-## Issue Salience
-![Issue Salience](weibo_count.jpg) 
