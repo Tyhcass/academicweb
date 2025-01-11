@@ -1,0 +1,53 @@
+{{ define "main" }}
+<main class="page-main">
+  <div class="row">
+    <!-- Left Section: About and Contact -->
+    <div class="column small-12 medium-6">
+      <section class="about-section">
+        <h1>About</h1>
+        <figure class="full-figure">
+          <img src="/img/portrait.jpg" alt="Portrait of the author" style="max-width: 100%; border-radius: 10px;">
+          <figcaption>{{ .Site.Params.bio_full }}</figcaption>
+        </figure>
+        <h2>Contact</h2>
+        <ul class="fa-ul">
+          {{ range $.Site.Params.social }}
+          <li>
+            <i class="fa-li {{ .icon_pack }} {{ .icon_pack }}-{{ .icon }}" style="padding-top:3px;"></i>
+            <a href="{{ .link }}">{{ .text }}</a>{{ if .site }} on {{ .site }}{{ end }}
+          </li>
+          {{ end }}
+        </ul>
+      </section>
+    </div>
+
+    <!-- Right Section: Publications and Working Papers -->
+    <div class="column small-12 medium-6">
+      <section class="publications-section">
+        <h1>Recent Publications</h1>
+        <ul class="compact fa-ul">
+          {{ range first 5 (where .Site.Pages.ByDate "Section" "publication").Reverse }}
+            <li>{{ partial "pub-summary" . }}</li>
+          {{ end }}
+        </ul>
+        <footer>
+          <nav>
+            <a href="/publication/" class="button hollow primary">All Publications</a>
+          </nav>
+        </footer>
+        <h1>Working Papers</h1>
+        <ul class="compact fa-ul">
+          {{ range first 3 (where .Site.Pages.ByDate "Section" "working-paper").Reverse }}
+            <li>{{ partial "pub-summary" . }}</li>
+          {{ end }}
+        </ul>
+        <footer>
+          <nav>
+            <a href="/working-paper/" class="button hollow primary">All Working Papers</a>
+          </nav>
+        </footer>
+      </section>
+    </div>
+  </div>
+</main>
+{{ end }}
