@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div class="wrapper">
+  <div class="row">
+    <div style='padding: 1rem 0.9375rem 1rem;'>
+
+      <h3><a href="/files/CassTai_CV.pdf" class="badge badge-large">Curriculum Vitae&nbsp;<i class="fa-solid fa-file-pdf"></i></a>
+
+      <a href="https://scholar.google.com/citations?user=LLWK3Z4AAAAJ&hl=en" class="badge badge-large" target="_blank" rel="noopener noreferrer">Google Scholar&nbsp;<i class="fa-brands fa-google-scholar"></i></a></h3>
+
+      <div style='padding-bottom: 2rem;'></div>
+      
+      </div>
+      <h2>Journal articles</h2>
+      {{ range (where .Pages "Params.kind" "==" "article").GroupByDate "2006" "desc" }}
+      <div class="row">
+        <div class="column small-2 medium-2">
+          <h3>{{ .Key }}</h3>
+        </div>
+        <div class="column small-10 medium-10">
+          <span style="font-size: 90%">
+           <ul class="compact fa-ul">
+             {{ range .Pages.ByDate.Reverse }}
+             <li style="margin-bottom: 9px;">{{ partial "pub-summary" . }}</li>
+             {{ end }}
+           </ul></span>
+         </div>
+       </div>
+       {{ end }}
+       
+     </div>
+   </div>
+ </div>
+ {{ end }}

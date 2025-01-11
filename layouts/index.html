@@ -1,0 +1,68 @@
+{{ define "main" }}
+<main class="page-main">
+  <div class="row" style="display: flex; flex-wrap: nowrap; gap: 2rem;">
+    <!-- Left section: About -->
+    <div class="column small-12 medium-6" style="flex: 1; max-width: 50%; display: flex; flex-direction: row; gap: 1rem;">
+      <section class="about-section" style="display: flex; align-items: center; gap: 1rem;">
+        <!-- Portrait -->
+        <figure class="avatar" style="margin: 0;">
+          <img src="/images/me.jpg" alt="Portrait of the author" style="max-width: 180px; height: auto; border-radius: 30%;" />
+        </figure>
+        <!-- Bio -->
+        <div>
+          <div class="bio" style="text-align: left;">
+            <h1>Yuehong Cassandra Tai</h1>
+            <h2>Assistant Research Professor</h2>
+            <h2>Assistant Director</h2>
+            <p>
+              <a href="https://soda.la.psu.edu/" target="_blank">Center for Social Data Analytics,Penn State University</a>, US.
+            </p>
+           <div class="contact">
+            <ul style="list-style: none; padding: 0; display: flex; gap: 0.5rem;">
+              {{ range $.Site.Params.social }}
+              <li>
+                <a href="{{ .link }}" target="_blank" rel="noopener noreferrer">
+                  <i class="{{ .icon_pack }} {{ .icon }}" style="font-size: 1.5rem;"></i>
+                </a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- Right section: Publications -->
+    <div class="column small-12 medium-6" style="flex: 1; max-width: 50%;">
+      <section class="publications-section">
+        <h1>Recent Publications</h1>
+        <ul>
+         {{ range first $.Site.Params.pubs_count (where .Site.Pages "Section" "publications") }}
+    {{ if ne .File.Path "publications/_index.md" }} <!-- Exclude _index.md explicitly -->
+      <li>
+        <a href="{{ .Params.file }}" target="_blank">{{ .Title }}</a>
+        {{ with .Params.abstract }}<p>{{ . }}</p>{{ end }}
+      </li>
+    {{ end }}
+  {{ end }}
+        </ul>
+        <a href="/publications/" class="button">All Publications</a>
+
+        <h1>Selected Under Review and R&R Papers</h1>
+        <ul>
+          {{ range first $.Site.Params.unpublished_count (where .Site.Pages "Section" "unpublished") }}
+           {{ if ne .File.Path "unpublished/_index.md" }} <!-- Exclude _index.md explicitly -->
+          <li>
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+            {{ with .Params.abstract }}<p>{{ . }}</p>{{ end }}
+          </li>
+          {{ end }}
+          {{ end }}
+        </ul>
+        <a href="/unpublished/" class="button">All Working Papers</a>
+      </section>
+    </div>
+  </div>
+</main>
+{{ end }}

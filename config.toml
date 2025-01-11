@@ -1,0 +1,90 @@
+baseurl = "https://cassyuehtai.netlify.app/"
+title = "Yuehong Cassandra Tai"
+author = "Yuehong Cassandra Tai"
+canonifyurls = true
+relativeurls = false
+paginate = 10
+theme = "resulumit"
+DisqusShortname = "researchtips"
+#googleAnalytics = "G-GC34XXL0WV"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+pluralizeListTitles = false
+buildFuture = true
+enableRobotsTXT = true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[params]
+
+# Date format (refer to Go's date format: http://flippinggodateformat.com)
+date_format = "2 January 2006"
+
+
+# Number of publications to show on main page.
+pubs_count = 4
+
+# Number of posts to show on main page.
+unpublished_count = 6
+
+# options for highlight.js (version, additional languages, and theme)
+highlightjsVersion = "9.11.0"
+highlightjsCDN = "//cdn.bootcss.com"
+highlightjsLang = ["r", "yaml"]
+highlightjsTheme = "github"
+
+
+[[params.social]]
+icon = "fa-building-columns"
+icon_pack = "fa-solid"
+link = "https://soda.la.psu.edu/"
+text = "Center for Social Data Analytics,Penn State University, US"
+
+[[params.social]]
+icon = "fa-envelope"
+icon_pack = "fa-solid"
+link = "mailto:yhcasstai@psu.edu"
+text = "yhcasstai@psu.edu"
+
+[[params.social]]
+icon = "fa-twitter"
+icon_pack = "fa-brands"
+link = "https://twitter.com/taiyuehong"
+text = "@taiyuehong"
+site = "Twitter"
+
+[[params.social]]
+icon = "fa-github"
+icon_pack = "fa-brands"
+link = "https://github.com/Tyhcass"
+text = "resulumit"
+site = "GitHub"
+
+[[params.social]]
+icon = "fa-google-scholar"
+icon_pack = "fa-brands"
+link = "https://scholar.google.com/citations?user=LLWK3Z4AAAAJ&hl=en"
+text = "Google Scholar"
+
+# Navigation Links
+# The weight parameter defines the order that the links will appear in.
+
+[[menu.main]]
+name = "Publications"
+url = "/publications/"
+weight = 1
+
+[[menu.main]]
+name = "Working Papers"
+url = "/unpublished/"
+weight = 2
+
+[[menu.main]]
+name = "Teaching"
+url = "/teaching/"
+weight = 3
+
+[[menu.main]]
+name = "About"
+url = "/about/"
+weight = 4
