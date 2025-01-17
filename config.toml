@@ -17,7 +17,6 @@ unsafe = true
 
 [params]
 
-custom_js = ["https://www.statcounter.com/counter/counter.js"]
 
 # Date format (refer to Go's date format: http://flippinggodateformat.com)
 date_format = "2 January 2006"
