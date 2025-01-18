@@ -1,10 +1,10 @@
 ---
 author: Tai, Yuehong Cassandra, Yu-ru Lin, and Bruce A. Desmarais
 comments: false
-date: '2024-12-30'
+date: '2025-01-18'
 slug: public-official-misinformation
 title: 'Public Officials’ Online Sharing of Misinformation: Institutional and Ideological Checks'
-kind: under review
+kind: rr
 tags:
 - misinformation
 - public officials

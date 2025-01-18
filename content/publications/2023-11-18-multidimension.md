@@ -1,11 +1,11 @@
 ---
 author:   Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederick Solt
 comments: false
-date: '2023-11-18'
+date: '2025-01-01'
 slug: incomplete-recipe
-section: unpublished
-title: 'An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support.'
-kind: rr
+section: publication
+title: 'An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support'
+kind: article
 tags:
 - democratic support
 - democracy
