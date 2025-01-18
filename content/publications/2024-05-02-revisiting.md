@@ -1,7 +1,7 @@
 ---
 author:  Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt
 comments: false
-date: '2024-05-02'
+date: '2024-12-21'
 slug: revisit-measurement
 title: 'Revisiting the Evidence on Thermostatic Response to Democratic Change: Degrees of Democratic Support or Researcher Degrees of Freedom?'
 kind: article
