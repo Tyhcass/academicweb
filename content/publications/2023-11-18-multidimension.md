@@ -3,7 +3,7 @@ author:   Hu, Yue, Yuehong Cassandra Tai, Hyein Ko, Byung-Deuk Woo, and Frederic
 comments: false
 date: '2025-01-01'
 slug: incomplete-recipe
-section: publication
+section: publications
 title: 'An Incomplete Recipe: One-Dimensional Latent Variables Do Not Capture the Full Flavor of Democratic Support'
 kind: article
 tags:

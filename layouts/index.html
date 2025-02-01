@@ -41,7 +41,7 @@
          {{ range first $.Site.Params.pubs_count (where .Site.Pages "Section" "publications") }}
     {{ if ne .File.Path "publications/_index.md" }} <!-- Exclude _index.md explicitly -->
       <li>
-        <a href="{{ .Params.file }}" target="_blank">{{ .Title }}</a>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         {{ with .Params.abstract }}<p>{{ . }}</p>{{ end }}
       </li>
     {{ end }}
