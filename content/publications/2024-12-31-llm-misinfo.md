@@ -1,14 +1,16 @@
 ---
 author: Tai, Yuehong Cassandra, Khushi Navin Patni, Nicholas Daniel Hemauer, Bruce A. Desmarais, and Yu-ru Lin
 comments: false
-date: '2024-12-31'
+date: '2025-01-31'
 slug: llm-misinformation
 title: 'GenAI vs. Human Fact-Checkers: Accurate Ratings, Flawed Rationales'
-kind: under review
+kind: article
+section: publications
 tags:
 - misinformation
 - public officials
 - LLMs
+citation: "Accepted in WebSci 2025"
 ---
 
 
