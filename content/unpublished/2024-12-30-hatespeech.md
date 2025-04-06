@@ -1,7 +1,7 @@
 ---
 author: Nakka, Nitheesha, Issac Pollert, Lingyu Fuca, and Yuehong Cassandra Tai (*with graduate students*)
 comments: false
-date: '2024-12-29'
+date: '2025-03-31'
 slug: llm-misinformation
 title: 'Navigating Hate and Anti-Hate Speech: Bridging Large Language Model and Human Expertise in Public Officials’ Online Communication'
 kind: under review
