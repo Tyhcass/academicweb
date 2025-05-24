@@ -10,7 +10,8 @@ tags:
 - misinformation
 - public officials
 - LLMs
-citation: "Accepted in WebSci 2025"
+doi: 10.1145/3717867.3717896
+citation: <em>Websci25 Proceedings of the 17th ACM Web Science Conference 2025</em>
 ---
 
 

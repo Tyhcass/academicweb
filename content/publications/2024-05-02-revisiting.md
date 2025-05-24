@@ -1,5 +1,5 @@
 ---
-author:  Hu, Yue, Yuehong Cassandra Tai, and Frederick Solt
+author:  Hu, Yue, Yuehong Cassandra Tai*, and Frederick Solt 
 comments: false
 date: '2024-12-21'
 slug: revisit-measurement
@@ -9,7 +9,7 @@ section: publications
 tags:
 - measurement
 - democratic support
-citation: <em>Political Science Research and Methods</em>. *co-first author
+citation: <em>Political Science Research and Methods</em>. (*co-first author*)
 file: 2024-revisiting.pdf
 doi: 10.1017/psrm.2024.16
 code: https://github.com/fsolt/dem_mood
