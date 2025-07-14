@@ -1,14 +1,15 @@
 ---
 author: Tai, Yuehong Cassandra
 comments: false
-date: '2024-11-29'
-slug: llm-misinformation
+date: '2025-01-02'
+slug: trust-taxmorale
 title: 'The Upsides and Downsides of Generalized Trust: The Mediating Effect of Democratic Institutions'
-kind: rr
+kind: article
 tags:
 - social trust
 - democracy
 - tax morale
+citation: <em>Conditionally Accepted at International Journal of Public Opinion Research</em>
 ---
 
 

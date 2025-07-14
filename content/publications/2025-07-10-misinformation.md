@@ -4,11 +4,13 @@ comments: false
 date: '2025-04-05'
 slug: public-official-misinformation
 title: 'Public Officials’ Online Sharing of Misinformation: Institutional and Ideological Checks'
-kind: rr
+kind: article
+section: publications
 tags:
 - misinformation
 - public officials
 - social media
+citation: <em>Conditionally Accepted at Political Communication</em>
 ---
 
 
