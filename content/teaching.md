@@ -6,6 +6,12 @@ My teaching experience includes the following courses and workshops:
 
 ## Undergraduate courses
 
+* *C-SoDA Capstone Project: AI in Governance*
+  - Penn State University, Fall 2025
+<div style = "line-height: 50%;">
+    <br>
+</div>
+
 * *Scientific Study of Politics*
   - Penn State University, Fall 2024
   - With Kadir Cihan Duran

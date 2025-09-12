@@ -1,7 +1,7 @@
 ---
 author:  Ma, Haofeng, Jeongho Choi, Yuehong Cassandra Tai, Yue Hu, and Frederick Solt
 comments: false
-date: '2024-11-18'
+date: '2025-03-18'
 slug: macrodiscontent
 title: 'Macrodiscontent Across Countries'
 kind: under review

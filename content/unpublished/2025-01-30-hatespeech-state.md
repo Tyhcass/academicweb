@@ -1,9 +1,9 @@
 ---
 author: Tai, Yuehong Cassandra, Issac Michael Pollert, Nitheesha Nakka, and Lingyu Jack Fuca
 comments: false
-date: '2024-11-10'
+date: '2025-01-10'
 slug: hatespeech-stateofficial
-title: 'Understanding Asian Hate in State Legislatures: An Electoral Connection'
+title: 'How Does Public Opinion Affect Climate Change Policies? Constructing Measures of Climate Change Public Concern and Testing Their Effects on Climate Policy Outputs'
 kind: working paper
 tags:
 - hate speech

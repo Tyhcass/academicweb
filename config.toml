@@ -26,7 +26,7 @@ date_format = "2 January 2006"
 pubs_count = 5
 
 # Number of posts to show on main page.
-unpublished_count = 5
+unpublished_count = 6
 
 # options for highlight.js (version, additional languages, and theme)
 highlightjsVersion = "9.11.0"
