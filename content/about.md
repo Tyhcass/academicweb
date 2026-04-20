@@ -4,9 +4,9 @@ title: "About me"
 
 I am a political scientist and computational social scientist, working as an Assistant Research Professor and Assistant Director at the Center for Social Data Analytics (C-SoDA) at Penn State University.
 
-My research focuses on governance and democratic accountability, with a particular emphasis on responsible AI in governance. 
-I develop and evaluate human–AI pipelines that identify when automation fails and where human oversight is essential, and I build data infrastructure that enables transparent and scalable applications of AI in the social sciences. 
-I also advance comparative public opinion research using Bayesian measurement models, generating cross-national data that enrich studies of governance.
+My research develops evaluation frameworks and oversight pipelines for AI-assisted measurement in social science, asking when AI-generated data can be trusted to support credible empirical inference. 
+I build data infrastructure that makes AI applications in social science transparent, reproducible, and scalable. 
+I also advance comparative public opinion research through Bayesian measurement models that generate cross-national data for the study of democratic governance and political trust.
 
 I am dedicated to delivering high-quality teaching.
 My experience includes teaching graduate workshops and undergraduate courses in political science and social data analytics, with a focus on topics such as research design, quantitative methods, and advanced Bayesian analysis.
